@@ -1,0 +1,24 @@
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.digitalClock{
+display:flex;
+width:auto;
+padding: 10px;
+border-radius: 15px;
+border: 2px solid black;
+background-color: rgba(22, 3, 3, 0.219);
+color: rgb(0, 0, 0);
+margin: 5px;
+}
+body{
+    background-color:rgba(252, 186, 197, 0.484);
+}
+p{
+    text-align: center;
+    font-size:2rem;
+    margin-top: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
